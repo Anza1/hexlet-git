@@ -1,1 +1,1 @@
-Это текстовая строка
+Hello Hexlet, How are you?
