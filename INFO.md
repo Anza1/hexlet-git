@@ -1,3 +1,3 @@
 git is awesome!
-Trust me
-test
+new line
+experiment with amend
